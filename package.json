@@ -1,0 +1,1 @@
+{"description":"Writes one funny lost-sock status update to /output/entry.txt","license":"MIT","main":"main.ts","name":"lost-sock-status-update","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
